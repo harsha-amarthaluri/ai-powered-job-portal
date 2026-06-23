@@ -1,0 +1,6 @@
+/ai-service/venv
+/frontend/node_modules
+/.github/modernize/java-upgrade/hooks/scripts
+/backend/uploads/resumes
+/backend/target
+/frontend/build

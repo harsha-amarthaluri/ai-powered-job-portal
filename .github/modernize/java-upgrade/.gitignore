@@ -1,0 +1,8 @@
+.venv/
+.venv-1/
+node_modules/
+target/
+application.properties
+.env
+.env.local
+*.log
